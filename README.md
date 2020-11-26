@@ -1,3 +1,3 @@
-# Fin_Fn_App
+# FinancialFn-App
 
-Interactive Financial Function Web Application
+Financial Function calculator interactive web application built with python
